@@ -73,7 +73,7 @@ The [`spec/`](spec/) directory contains ~990 KB of detailed behavioral specifica
 ### Prerequisites
 
 - [Rust](https://www.rust-lang.org/tools/install) 1.75 or later
-- An Anthropic API key or OAuth credentials
+- An [Anthropic API key](https://console.anthropic.com/) or OAuth credentials (use the built-in `/oauth` command to authenticate)
 
 ### Build
 
